@@ -1,0 +1,6 @@
+- In this repo I am doing some tests using the new package `DsPy`.
+- I have tried their `simple` program, which is basically doing QA using the HotPotQA dataset.
+- I also tried to do a Chain of Thought
+- Implemented a simple RAG
+- Implemented a multihop RAG.
+- Compared the Mixtral, Phi3 and Gemma.
